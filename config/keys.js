@@ -1,4 +1,4 @@
-dbPassword = 'mongodb+srv://jifetech:<password>@agrotrendhub.j8gry.mongodb.net/<dbname>?retryWrites=true&w=majority';
+dbPassword = 'mongodb+srv://jifetech:clever123@agrotrendhub.j8gry.mongodb.net/farmhub?retryWrites=true&w=majority';
 
 module.exports = {
     mongoURI: dbPassword
